@@ -2,7 +2,7 @@ import type { Site, Page, Links, Socials } from "@types"
 
 // Global
 export const SITE: Site = {
-  TITLE: "Astro Sphere",
+  TITLE: "Ayrton Juarez",
   DESCRIPTION: "Welcome to Astro Sphere, a portfolio and blog for designers and developers.",
   AUTHOR: "Mark Horn",
 }
@@ -40,10 +40,6 @@ export const LINKS: Links = [
   { 
     TEXT: "Work", 
     HREF: "/work", 
-  },
-  { 
-    TEXT: "Blog", 
-    HREF: "/blog", 
   },
   { 
     TEXT: "Projects", 
